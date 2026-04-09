@@ -1,6 +1,6 @@
-# AI Zoo Agent
+# Multi-Agent Productivity Assistant
 
-AI-powered Zoo Tour Guide Agent using Python  
+AI-powered system that uses multiple agents to automate workflows, improve productivity, and streamline decision-making.
 
 ---
 
@@ -13,4 +13,19 @@ AI-powered Zoo Tour Guide Agent using Python
 ## 🛠️ Tech Stack
 - Python  
 - AI / LLMs  
-- Flask (if used)  
+- Multi-Agent Systems  
+- Flask API  
+
+---
+
+## ✨ Features
+- Multi-agent task coordination  
+- Workflow automation  
+- AI-driven decision support  
+- Scalable productivity system  
+
+---
+
+## 🚀 How to Run
+pip install -r requirements.txt  
+python app.py  
